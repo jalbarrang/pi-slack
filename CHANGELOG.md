@@ -1,5 +1,12 @@
 # @dreki-gg/pi-slack
 
+## [0.5.0](https://github.com/jalbarrang/pi-slack/compare/v0.4.0...v0.5.0) (2026-07-11)
+
+
+### Features
+
+* extract pi-slack from dreki-gg/pi-extensions monorepo ([1e14b33](https://github.com/jalbarrang/pi-slack/commit/1e14b33f8d8dd537d2e4df5d6f1ef78ae45855c1))
+
 ## 0.4.0
 
 ### Minor Changes
