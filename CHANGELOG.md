@@ -1,5 +1,12 @@
 # @dreki-gg/pi-slack
 
+## [0.5.1](https://github.com/jalbarrang/pi-slack/compare/v0.5.0...v0.5.1) (2026-07-12)
+
+
+### Bug Fixes
+
+* **deps:** bump dependencies to latest ([#4](https://github.com/jalbarrang/pi-slack/issues/4)) ([9ff5b15](https://github.com/jalbarrang/pi-slack/commit/9ff5b15324fe339a525362abd5099044ad35af97))
+
 ## [0.5.0](https://github.com/jalbarrang/pi-slack/compare/v0.4.0...v0.5.0) (2026-07-11)
 
 
